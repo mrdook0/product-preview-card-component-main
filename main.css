@@ -43,6 +43,7 @@ body {
 .tittle h1 {
     margin: 10px 0px;
     letter-spacing: 2px;
+    line-height: 1.8;
     color: hsl(212, 21%, 14%);
     font-family: "Fraunces", serif;
 }
